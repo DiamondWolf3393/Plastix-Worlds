@@ -7,4 +7,4 @@ You can download the game if you don't already have it <a href=https://gamejolt.
 ![newpeople-ekzfhgzu](https://user-images.githubusercontent.com/51975687/110043567-db72b100-7d04-11eb-9ed6-739d32596d89.png)
 
 Plastix is also on Itch.io here:
-<iframe frameborder="0" src="https://itch.io/embed/1011126?border_width=3&amp;bg_color=001797&amp;fg_color=fefec7&amp;link_color=17ab00&amp;border_color=ffffff" width="556" height="171"><a href="https://jonah-amos.itch.io/plastix">Plastix by Jonah Amos</a></iframe>
+https://jonah-amos.itch.io/plastix
